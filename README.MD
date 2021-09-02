@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on <h2 align="left corner">Python,HTML and git projects.</h2>
 
-- 🌱 I’m currently learning **<h3 align="left corner">Python, HTML,git,linux,java and DSA.</h3>**
+- 🌱 I’m currently learning **<h3 align="left corner">PYTHON, HTML,GIT, LINUX,JAVA and DSA.</h3>**
 
 - 📫 How to reach me **<h3 align="left corner" >https://github.com/rishiwardhan/RISHIWARDHAN/blob/main/test.md.</h3>**
 
