@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiwardhan&label=Profile%20views&color=0e75b6&style=flat" alt="rishiwardhan" /> </p>
 
-- 🔭 I’m currently working on [<h1 align="center">Python project.</h1>](https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py)
+- 🔭 I’m currently working on [<h1 align="center">Python,htnl,git projects.</h1>](https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py)
 
 
 <h3 align="left">Languages and Tools:</h3>
