@@ -1,6 +1,6 @@
 🚀ABOUT M_E 🚀
 
- 🚀 👋 THERE  I AM STUDYING 7TH GRADE  [L.RISHIWARDHAN](header.svg)
+ 🚀 👋 THERE  I AM STUDYING 7TH GRADE  [L.RISHIWARDHAN](header.svg)https://github.com/ory
 
  🚀 I AM CURRENTLY STUDYING 🐍PYTHON🐍, H_T_M_L  AND 🐱GIT🐱 
   
