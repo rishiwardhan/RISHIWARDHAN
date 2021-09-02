@@ -4,7 +4,7 @@
 
 - 🌱<h3 aling="leftcorner">  I’m currently learning.</h3> **<h3 align="left corner">PYTHON, HTML,GIT, LINUX,JAVA and DSA.</h3>**
 
-- 📫<h3 aling="leftcorner"> How to reach me.</h3> **<h3 align="left corner" >https://github.com/rishiwardhan/RISHIWARDHAN/blob/main/test.md.</h3>**
+- 📫<h3 aling="leftcorner"> How to reach me.</h3> **<h3 align="left corner" >https://github.com/rishiwardhan/RISHIWARDHAN/edit/main/README.MD.</h3>**
 
 
 - ⚡ Fun fact **<h2 align="left corner"> I am a school student</h2>**
