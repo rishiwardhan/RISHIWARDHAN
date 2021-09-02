@@ -1,6 +1,6 @@
 🚀ABOUT M_E 🚀
 
- 🚀 👋 THERE  I AM STUDYING 7TH GRADE  [L.RISHIWARDHAN](header.svg)https://github.com/rishiwardhan/RISHIWARDHAN
+ 🚀 👋 THERE  I AM L.RISHIWARDHAN STUDYING 7TH GRADE  https://github.com/rishiwardhan/RISHIWARDHAN
 https://github.com/rishiwardhan/guess-the-num-game.py
  🚀 I AM CURRENTLY STUDYING 🐍PYTHON🐍, H_T_M_L  AND 🐱GIT🐱 
 
