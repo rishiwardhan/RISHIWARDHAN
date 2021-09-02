@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [<h1 align="center">Python,HTML and git projects.</h1>](https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py)
 
-- 🌱 I’m currently learning **<h4 align="center">Python, HTML,git,linux,java.</h4>**
+- 🌱 I’m currently learning **<h4 align="left corner">Python, HTML,git,linux,java.</h4>**
 
 - 📫 How to reach me **https://github.com/rishiwardhan/RISHIWARDHAN/blob/main/test.md**
 
