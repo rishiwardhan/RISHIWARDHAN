@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiwardhan&label=Profile%20views&color=0e75b6&style=flat" alt="rishiwardhan" /> </p>
 
-- 🔭 <h3I’m currently working on>/h3> <h2 align="left corner">Python,HTML and git projects.</h2>
+- 🔭 <h3 I’m currently working on.</h3> <h2 align="left corner">Python,HTML and git projects.</h2>
 
-- 🌱<h3I’m currently learning>/h3> **<h3 align="left corner">PYTHON, HTML,GIT, LINUX,JAVA and DSA.</h3>**
+- 🌱<h3I’m currently learning.</h3> **<h3 align="left corner">PYTHON, HTML,GIT, LINUX,JAVA and DSA.</h3>**
 
-- 📫<h3How to reach me>/h3> **<h3 align="left corner" >https://github.com/rishiwardhan/RISHIWARDHAN/blob/main/test.md.</h3>**
+- 📫<h3How to reach me.</h3> **<h3 align="left corner" >https://github.com/rishiwardhan/RISHIWARDHAN/blob/main/test.md.</h3>**
 
 
 - ⚡ Fun fact **<h2 align="left corner"> I am a school student</h2>**
