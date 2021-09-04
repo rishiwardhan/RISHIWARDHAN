@@ -9,7 +9,7 @@
 - 📫<h3 aling="leftcorner"> How to reach me.</h3> **<h3 align="left corner" >https://github.com/rishiwardhan/guess-the-num-game.py</h3>**
 
 
-- ⚡<h3 alinh="leftcorner"> Fun fact.</h3> **<h2 align="left corner"> I am a school student</h2>**
+- ⚡<h3 alinh="left"> Fun fact.</h3> **<h2 align="left corner"> I am a school student</h2>**
 
 
 <h2 align="left">Languages and Tools:</h2>
