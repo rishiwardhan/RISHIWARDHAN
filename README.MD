@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiwardhan&label=Profile%20views&color=0e75b6&style=flat" alt="rishiwardhan" /> </p>
 
 <h1 align="center">  Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px"> I'M [RISHIWARDHAN!] </h1>
-https://github.com/rishiwardhan/RISHIWARDHAN/edit/main/README.MD
+
 
 - 🔭<h3 aling="left"> I’m currently working on.</h3> <h2 align="left corner">Python,HTML and git projects.</h2>
 
