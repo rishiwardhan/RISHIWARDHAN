@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiwardhan&label=Profile%20views&color=0e75b6&style=flat" alt="rishiwardhan" /> </p>
 
-- 🔭 I’m currently working on [<h2 align="left">Python,HTML,git,and java projects.</h2>]
+- 🔭 I’m currently working on <h2 align="left">Python,HTML,git,and java projects.</h2>
 
 - 🌱 I’m currently learning **<h2 align="left"> PYTHON,HTML,GIT,JAVA and DSA.</h2>**
 
