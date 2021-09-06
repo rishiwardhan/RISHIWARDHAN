@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiwardhan&label=Profile%20views&color=0e75b6&style=flat" alt="rishiwardhan" /> </p>
 
-- 🔭 I’m currently working on <h2 align="left">Python,HTML,git,and java projects.</h2>
+- 🔭 <h2 I’m currently working on.</h2> <h2 align="left">Python,HTML,git,and java projects.</h2>
 
-- 🌱 I’m currently learning **<h2 align="left"> PYTHON,HTML,GIT,JAVA and DSA.</h2>**
+- 🌱<h2 I’m currently learning.</h2> **<h2 align="left"> PYTHON,HTML,GIT,JAVA and DSA.</h2>**
 
-- 📫 How to reach me **<h2 align="left">https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py**
+-📭 <h2 How to reach me.</h2>  **<h2 align="left">https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py**
 
 - ⚡ Fun fact **<h2 align="left"> I am a school student</h2>**
 
