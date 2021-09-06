@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **<h2 align="left">PYTHON,HTML,GIT,JAVA and DSA.</h2>**
 
-- 📫 How to reach me **<h2 align="left" https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py**
+- 📫 How to reach me **<h2 align="left">https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py**
 
 - ⚡ Fun fact **<h2 align="left"> I am a school student</h2>**
 
