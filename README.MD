@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishiwardhan&label=Profile%20views&color=0e75b6&style=flat" alt="rishiwardhan" /> </p>
      <h2 aling="center">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <aling="center">  THERE I AM L.RISHIWARDHAN</h2> 
 
-- 🔭 <h2 aling="left">I’m currently working on.</h2> <h3 align="left">Python,HTML,git,and java projects.</h3>
+- 🔭 <h2 aling="left">I’m currently working on.</h2> <h3 align="left">PYTHON , HTML ,GIT and JAVA projects.</h3>
 
 - 🌱<h2 aling="left">I’m currently learning.</h2> **<h3 align="left"> PYTHON , HTML , GIT , JAVA and DSA.</h3>**
 
