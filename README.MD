@@ -3,7 +3,7 @@
 
 - 🔭 <h2 aling="left">I’m currently working on.</h2> <h3 align="left">Python,HTML,git,and java projects.</h3>
 
-- 🌱<h2 aling="left">I’m currently learning.</h2> **<h3 align="left"> PYTHON,HTML,GIT,JAVA and DSA.</h3>**
+- 🌱<h2 aling="left">I’m currently learning.</h2> **<h3 align="left"> PYTHON , HTML , GIT , JAVA and DSA.</h3>**
 
 -📭 <h2 aling="left">How to reach me.</h2>  **<h3 align="left">https://github.com/rishiwardhan/guess-the-num-game.py/blob/Master-branch/Guessnum.py**.</h3>
 
