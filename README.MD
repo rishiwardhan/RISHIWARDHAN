@@ -1,5 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Rishiwardhan%7D/count.svg" alt="visitor badge"/></p>
+
 
 
 
