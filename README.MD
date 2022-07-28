@@ -12,9 +12,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 
-- 🔭 <h2 aling="left">I’m currently working on.</h2> <h3 align="left">PYTHON , HTML ,GIT and JAVA projects.</h3>
 
-- 🌱<h2 aling="left">I’m currently learning.</h2> <h3 align="left"> PYTHON , HTML , GIT , JAVA and DSA.</h3>**
+
+- 🌱<h2 aling="left">I’m currently learning.</h2> <h3 align="left"> PYTHON , HTML , GIT , JAVA and DSA.</h3>
 
 - 📭 <h2 aling="left">How to reach me.</h2> <h3 align="left"> leerishiwardhan@gmail.com.</h3>
 
