@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <p align="center"><b>Visitor's Count</b></p>
-(https://user-images.githubusercontent.com/88772100/190985597-313ee4ac-8a7e-462e-ac3c-1cd768aa44dc.png)
+
 
 
 
