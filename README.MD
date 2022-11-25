@@ -15,7 +15,7 @@
 
 
 
-- 🌱<h2 aling="left">I’m currently learning.</h2> <h3 align="left">  HTML , GIT , LINUX and GO  .</h3>
+- 🌱<h2 aling="left">I’m currently learning.</h2> <h3 align="left">  HTML , CSS , GIT , LINUX and GO  .</h3>
 
 - 📭 <h2 aling="left">How to reach me.</h2> <h3 align="left"> leerishiwardhan@gmail.com.</h3>
 
